@@ -1,0 +1,11 @@
+#index, #objective, #education, #experience, #skills, #highbridge, #starbucks {
+color:#FFF;
+text-shadow: 2px 2px #000;
+background-image:url(http://zsouser.com/img/bg.jpg);
+background-position:fixed;
+background-size:cover;
+background-position: center right;
+background-repeat:no-repeat;
+}
+a { color:#FFF; }
+a:clicked { color:#FFF; }
